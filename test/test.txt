@@ -1,0 +1,8 @@
+name,city
+pankaj,gautam budha nagar
+sachin,ghaziabad
+pranjal,gautam budha nagar
+deepak,gautam budha nagar
+mohan,ghaziabad
+pinku,lucknow
+ranaji , gautam budha nagar
